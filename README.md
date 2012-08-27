@@ -4,8 +4,8 @@
 //Shockwave Flash Object
 
 //This code is free for anybody
-//to modify, copy and learn from it
-//in anyway anybody want!
+//To modify, copy and learn from it
+//In anyway he want!
 
 //Have
 //Fun !
